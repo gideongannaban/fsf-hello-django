@@ -28,7 +28,7 @@ SECRET_KEY = 'u*!%g9_o(klc8%c0hfphi9t6ldo55k!c4lm8dalo0gxn1_0nm*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ferdie-django-todo-app.herokuapp.com']
 
 
 # Application definition
